@@ -1,0 +1,7 @@
+aiohttp
+sqlalchemy
+aiosqlite
+pydantic
+fpdf2
+matplotlib
+numpy
